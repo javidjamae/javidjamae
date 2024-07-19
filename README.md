@@ -10,12 +10,13 @@ Available for:
 
 ## Intro
 
-- **Mission**: I am passionate about leveraging technology and innovation to drive business success and maintain a competitive edge.
-- **Engineering Leader**: I am a seasoned software development and engineering leader with extensive experience leading product, platform, and growth teams.
-- **Focus Areas**: I currently focus on SaaS product development, AI-enabled products / automations, and fractional CTO consulting.
-- **Strategy**: I excel in aligning technology strategies with business objectives and optimizing technology infrastructure for scalable growth.
-- **AI Automation**: I have led the development of AI automations to improve various business processes and enhance efficiency.
-- **Cross Functional**: I am proficient in leading cross-functional teams, running technical recruiting, and managing all facets of the software development lifecycle.
+Hi, I'm Javid and I build AI-enabled SaaS products. 
+
+I am a seasoned software development and engineering leader with extensive experience leading product, platform, and growth teams. I write and review code daily, but I am also proficient in leading cross-functional teams, running technical recruiting, and managing all facets of the software development lifecycle.
+
+I currently focus on SaaS product development, AI-enabled products / automations, and fractional CTO consulting.
+
+Please [review my portfolio](https://github.com/javidjamae/ai-portfolio) and then reach out if you'd like to work with me!
 
 ## Technologies
 
@@ -58,7 +59,6 @@ Available for:
 - **Software Development and Operations (DevOps)**: Development Process Audit, Code Quality and Standards Review, CI/CD Practices Evaluation, Infrastructure as Code, Automation, Monitoring and Logging
 - **Technology Infrastructure and Architecture**: Current State Analysis, Scalability and Performance Evaluation, Security and Compliance Audits, Cloud Architecture, Microservices, API Management
 - **Business and Technology Strategy Alignment**: Vision and Business Goals Alignment, Strategic Technology Roadmap Development, Business Plan Assessment, Digital Transformation, IT Strategy
-
 
 ## GitHub Stats
 
