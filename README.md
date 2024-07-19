@@ -18,22 +18,26 @@ Available for:
 - **Cross Functional**: I am proficient in leading cross-functional teams, running technical recruiting, and managing all facets of the software development lifecycle.
 
 ## Technologies
+
+**Web Product Development**
 - **WebApp / SaaS Development**: [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [React](https://reactjs.org/), [Postgres](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [GraphQL](https://graphql.org/), [Next.js](https://nextjs.org/)
-- **Voice AI Platforms**: [VAPI](https://vapi.ai/), [Retell](https://www.retell.com/)
-- **ML Development**: [Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [scikit-learn](https://scikit-learn.org/)
-- **No-code / Low-code Tools**: [Airtable](https://airtable.com/), [Bubble.io](https://bubble.io/), [Make](https://make.com/), [Zapier](https://zapier.com/), [IFTTT](https://ifttt.com/)
-- **Chatbot Platforms**: [Botpress](https://botpress.com/), [Voiceflow](https://www.voiceflow.com/), [Dialogflow](https://dialogflow.cloud.google.com/), [Drift](https://www.drift.com/), [ManyChat](https://manychat.com/)
-- **Cloud Services / Hosting**: [Vercel](https://vercel.com/), [Digital Ocean](https://www.digitalocean.com/), [Amazon AWS](https://aws.amazon.com/), [Replicate](https://replicate.com/)
-- **AI and Machine Learning**: [Langchain JS](https://js.langchain.com/), [OpenAI - GPT-4](https://openai.com/), [Bland](https://www.bland.ai/)
+- **Cloud Services / Hosting**: [Amazon AWS](https://aws.amazon.com/), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Vercel](https://vercel.com/), [Digital Ocean](https://www.digitalocean.com/), [Replicate](https://replicate.com/)
 - **Application Development**: [React](https://react.dev/), [Next.JS](https://vercel.com/solutions/nextjs), [Typescript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [Flask](https://github.com/pallets/flask), [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [Python](https://www.python.org/), [Material Tailwind](https://material-tailwind.com/),  [RapidAPI](https://rapidapi.com/), [Supabase](https://www.supabase.com/), 
 - **Databases / Caches**: [MySQL](https://www.mysql.com/) / [MariaDB](https://mariadb.org/), [Redis](https://redis.io/), [Postgres](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [Memcached](https://memcached.org/), [Google BigQuery](https://cloud.google.com/bigquery)
 - **Build / CI/CD**: [GitHub](https://github.com/), [GitHub Actions](https://github.com/features/actions), [Heroku](https://www.heroku.com/), [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [SonarCloud](https://sonarcloud.io/), [Jenkins](https://www.jenkins.io/)
 - **Product Analytics / Reporting**: [Amplitude](https://amplitude.com/), [LaunchDarkly](https://launchdarkly.com/), [Mixpanel](https://mixpanel.com/), [Segment](https://segment.com/), [Treasure Data](https://www.treasuredata.com/), [Looker](https://looker.com/), [Google Data Studio](https://datastudio.google.com/), 
 - **Email / CDP**: [Iterable](https://www.iterable.com/), [Sendgrid](https://www.sendgrid.com/), 
 - **Queues / Distributed Architecture**: [Kafka](https://kafka.apache.org/), [Beehiiv](https://www.beehiiv.com/), 
-- **AI Image Generation**: [MTCNN](https://github.com/ipazc/mtcnn), [Fooocus](https://github.com/lllyasviel/Fooocus), [Juggernaut XL](https://huggingface.co/stablediffusionapi/juggernaut-xl)
 - **Geo-Spatial**: [Google Maps API](https://developers.google.com/maps), [Google Solar API](https://developers.google.com/maps/documentation/solar/overview),
 - **Statistics / Data Analysis**: [JASP](https://jasp-stats.org/), [Octave](https://www.gnu.org/software/octave/)
+
+**AI / ML Development**
+- **Voice AI Platforms**: [VAPI](https://vapi.ai/), [Retell](https://www.retell.com/)
+- **Chatbot Platforms**: [Botpress](https://botpress.com/), [Voiceflow](https://www.voiceflow.com/), [Dialogflow](https://dialogflow.cloud.google.com/), [Drift](https://www.drift.com/), [ManyChat](https://manychat.com/)
+- **ML Development**: [Python](https://www.python.org/), [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [scikit-learn](https://scikit-learn.org/)
+- **No-code / Low-code Tools**: [Airtable](https://airtable.com/), [Bubble.io](https://bubble.io/), [Make](https://make.com/), [Zapier](https://zapier.com/), [IFTTT](https://ifttt.com/)
+- **AI and Machine Learning**: [Langchain JS](https://js.langchain.com/), [OpenAI - GPT-4](https://openai.com/), [Bland](https://www.bland.ai/)
+- **AI Image Generation**: [MTCNN](https://github.com/ipazc/mtcnn), [Fooocus](https://github.com/lllyasviel/Fooocus), [Juggernaut XL](https://huggingface.co/stablediffusionapi/juggernaut-xl)
 
 ## Skills
 - **Experimentation**: A/B Testing, Multivariate Testing (MVT), Bandit Testing, Scalable Event Architectures, Analytics & Reporting, Bayesian Data Analysis, Statistical Hypothesis Testing, Product Analytics, Experiment Design, Result Interpretation
