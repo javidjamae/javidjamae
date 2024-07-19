@@ -22,13 +22,13 @@ Available for:
 **Web Product Development**
 - **WebApp / SaaS Development**: [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [React](https://reactjs.org/), [Postgres](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [GraphQL](https://graphql.org/), [Next.js](https://nextjs.org/)
 - **Cloud Services / Hosting**: [Amazon AWS](https://aws.amazon.com/), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Vercel](https://vercel.com/), [Digital Ocean](https://www.digitalocean.com/), [Replicate](https://replicate.com/)
-- **Application Development**: [React](https://react.dev/), [Next.JS](https://vercel.com/solutions/nextjs), [Typescript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [Flask](https://github.com/pallets/flask), [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [Python](https://www.python.org/), [Material Tailwind](https://material-tailwind.com/),  [RapidAPI](https://rapidapi.com/), [Supabase](https://www.supabase.com/), 
+- **Application Development**: [React](https://react.dev/), [Next.JS](https://vercel.com/solutions/nextjs), [Typescript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [Flask](https://github.com/pallets/flask), [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [Python](https://www.python.org/), [Material Tailwind](https://material-tailwind.com/),  [RapidAPI](https://rapidapi.com/), [Supabase](https://www.supabase.com/)
 - **Databases / Caches**: [MySQL](https://www.mysql.com/) / [MariaDB](https://mariadb.org/), [Redis](https://redis.io/), [Postgres](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [Memcached](https://memcached.org/), [Google BigQuery](https://cloud.google.com/bigquery)
 - **Build / CI/CD**: [GitHub](https://github.com/), [GitHub Actions](https://github.com/features/actions), [Heroku](https://www.heroku.com/), [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines), [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [SonarCloud](https://sonarcloud.io/), [Jenkins](https://www.jenkins.io/)
-- **Product Analytics / Reporting**: [Amplitude](https://amplitude.com/), [LaunchDarkly](https://launchdarkly.com/), [Mixpanel](https://mixpanel.com/), [Segment](https://segment.com/), [Treasure Data](https://www.treasuredata.com/), [Looker](https://looker.com/), [Google Data Studio](https://datastudio.google.com/), 
-- **Email / CDP**: [Iterable](https://www.iterable.com/), [Sendgrid](https://www.sendgrid.com/), 
-- **Queues / Distributed Architecture**: [Kafka](https://kafka.apache.org/), [Beehiiv](https://www.beehiiv.com/), 
-- **Geo-Spatial**: [Google Maps API](https://developers.google.com/maps), [Google Solar API](https://developers.google.com/maps/documentation/solar/overview),
+- **Product Analytics / Reporting**: [Amplitude](https://amplitude.com/), [LaunchDarkly](https://launchdarkly.com/), [Mixpanel](https://mixpanel.com/), [Segment](https://segment.com/), [Treasure Data](https://www.treasuredata.com/), [Looker](https://looker.com/), [Google Data Studio](https://datastudio.google.com/)
+- **Email / CDP**: [Iterable](https://www.iterable.com/), [Sendgrid](https://www.sendgrid.com/)
+- **Queues / Distributed Architecture**: [Kafka](https://kafka.apache.org/), [Beehiiv](https://www.beehiiv.com/)
+- **Geo-Spatial**: [Google Maps API](https://developers.google.com/maps), [Google Solar API](https://developers.google.com/maps/documentation/solar/overview)
 - **Statistics / Data Analysis**: [JASP](https://jasp-stats.org/), [Octave](https://www.gnu.org/software/octave/)
 
 **AI / ML Development**
