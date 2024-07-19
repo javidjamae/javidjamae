@@ -22,7 +22,7 @@ Available for:
 **Web Product Development**
 - **Languages**: [JavaScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/), [Typescript](https://www.typescriptlang.org/), [Python](https://www.python.org/), [Ruby](https://www.ruby-lang.org)
 - **WebApp / SaaS Development**:  [React](https://reactjs.org/), [GraphQL](https://graphql.org/), [Next.js](https://nextjs.org/), [MobX](https://mobx.js.org/), [Redux](https://redux.js.org/), [Express](https://expressjs.com/),  [Node.js](https://nodejs.org/), [Flask](https://github.com/pallets/flask), [Material Tailwind](https://material-tailwind.com/), [Material UI](https://mui.com/), [Ruby on Rails](https://rubyonrails.org/), [Angular](https://angular.io/), [Backbone.JS](https://backbonejs.org/)
-- **Authentication / Authorization**: [Supabase](https://www.supabase.com/)
+- **Authentication / Authorization**: [Supabase](https://www.supabase.com/), [Auth.js](https://authjs.dev), [Passport.js](https://www.passportjs.org)
 - **Cloud Services / Hosting**: [Amazon AWS](https://aws.amazon.com/), [Google Cloud Platform (GCP)](https://cloud.google.com/), [Vercel](https://vercel.com/), [Digital Ocean](https://www.digitalocean.com/)
 - **Content Management**: [Contentful CMS](https://www.contentful.com/)
 - **Databases / Caches**: [MySQL](https://www.mysql.com/) / [MariaDB](https://mariadb.org/), [Redis](https://redis.io/), [Postgres](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [Memcached](https://memcached.org/), [Google BigQuery](https://cloud.google.com/bigquery)
